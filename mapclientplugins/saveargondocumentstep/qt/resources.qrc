@@ -1,0 +1,6 @@
+
+<RCC>
+  <qresource prefix="saveargondocumentstep">
+    <file>images/data-sink.png</file>
+  </qresource>
+</RCC>

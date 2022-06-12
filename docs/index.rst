@@ -26,3 +26,12 @@ The output directory should be set to a location outside of the current workflow
 
 The *Consolidate Resources* option is for making sure all external resources referenced in the document are copied to the same directory as the Argon document itself.
 The purpose of this parameter is to make sharing Argon documents and their resources easier.
+
+Ports
+-----
+
+This plugin:
+
+* **uses**:
+
+  * *https://opencmiss.org/1.0/rdf-schema#ArgonDocument*

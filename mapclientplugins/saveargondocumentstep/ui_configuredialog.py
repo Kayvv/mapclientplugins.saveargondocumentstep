@@ -91,7 +91,7 @@ class Ui_ConfigureDialog(object):
     # setupUi
 
     def retranslateUi(self, ConfigureDialog):
-        ConfigureDialog.setWindowTitle(QCoreApplication.translate("ConfigureDialog", u"Configure Step", None))
+        ConfigureDialog.setWindowTitle(QCoreApplication.translate("ConfigureDialog", u"Configure Save Argon Document", None))
         self.configGroupBox.setTitle("")
         self.label0.setText(QCoreApplication.translate("ConfigureDialog", u"Identifier:  ", None))
         self.labelConsolidateResources.setText(QCoreApplication.translate("ConfigureDialog", u"Consolidate Resources:  ", None))

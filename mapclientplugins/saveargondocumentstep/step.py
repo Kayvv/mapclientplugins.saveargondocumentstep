@@ -5,7 +5,7 @@ import json
 import os.path
 
 from shutil import copyfile
-from PySide2 import QtGui
+from PySide6 import QtGui
 
 from mapclient.mountpoints.workflowstep import WorkflowStepMountPoint
 from mapclientplugins.saveargondocumentstep.configuredialog import ConfigureDialog
